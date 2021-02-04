@@ -1,0 +1,61 @@
+body{
+ background-image: url('maxresdefault.jpg');
+  background-color: rgb(92, 204, 235) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+span{
+  color: red;
+}
+
+.two{
+  /*top: 50%;*/
+  position: absolute;
+  right: 15px;
+
+  background: transparent;
+  padding: 10px 15px;
+  
+  font-size: 20px;
+  cursor: pointer;
+  color: black;
+  border-radius: 15px;
+  
+}
+.three{
+  
+  color: rgb(255, 251, 251);
+  text-align: left;
+  margin: auto;
+  font-size: large;
+  padding: 100px;
+  width: 40%;
+ 
+  padding-left: 20%;
+
+
+  
+}
+.four{
+  background:transparent;
+  border-radius: 19px;
+  cursor: pointer;
+  color: rgb(253, 252, 252);
+  padding: 10px 10px;
+  position: absolute;
+  font-size: 14px;
+  align-items: center;
+}
+.five{
+  background:transparent;
+  border-radius: 19px;
+  cursor: pointer;
+  color: rgb(250, 245, 245);
+  padding: 10px 10px;
+  font-size: 14px;
+  
+
+}
+
+
